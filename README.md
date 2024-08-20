@@ -1,1 +1,1 @@
-# Predict the percentage of an student based on study hours
+# Predict the percentage of an students:
